@@ -181,7 +181,6 @@ if (isset($_SESSION['MachineID'])) {
     </body>
     <script type="text/javascript">
         check_MachineName('<?php echo $_REQUEST['m'] ?>');
-        //alert();
     </script>
 </html>
 
